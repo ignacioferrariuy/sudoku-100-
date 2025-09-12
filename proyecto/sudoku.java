@@ -1,7 +1,7 @@
 package proyecto;
 import java.util.Scanner;
 public class sudoku {
-	public static void main(String [] arg) }
+	public static void main(String [] arg) {
 		Scanner sc = new Scanner(System.in);
 		int[][] matriz = new int[9][9];
 		int[][] matrizaux= new int[9][9];
